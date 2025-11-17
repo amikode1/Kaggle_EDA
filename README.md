@@ -7,12 +7,12 @@ This python script fetches the data from kaggle dataset, downloads it to local d
 ## How to use
 
 paste the url of the kaggle dataset in the text box and click on download button.
-<img src="https://raw.githubusercontent.com/amikode1/Kaggle_EDA/refs/heads/master/images/home.png" alt="home" width="400"/>
+<img src="https://raw.githubusercontent.com/amikode1/Kaggle_EDA/refs/heads/master/images/home.png" alt="home" width="600"/>
 
 ### Then click Generate and open report
 
-<img src="https://raw.githubusercontent.com/amikode1/Kaggle_EDA/refs/heads/master/images/generate.png" alt="generate" width="400"/>
+<img src="https://raw.githubusercontent.com/amikode1/Kaggle_EDA/refs/heads/master/images/generate.png" alt="generate" width="600"/>
 
 #
 
-<img src="https://raw.githubusercontent.com/amikode1/Kaggle_EDA/refs/heads/master/images/report.png" alt="report" width="400"/>
+<img src="https://raw.githubusercontent.com/amikode1/Kaggle_EDA/refs/heads/master/images/report.png" alt="report" width="600"/>
