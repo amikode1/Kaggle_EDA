@@ -7,7 +7,10 @@ This python script fetches the data from kaggle dataset, downloads it to local d
 ## How to use
 
 paste the url of the kaggle dataset in the text box and click on download button.
-![main page]("https://drive.google.com/file/d/1seRxlYeLIKYqSRfFI_XtBZwy-9E5OiQh/view?usp=sharing")
+
+<img src="[markdownmonstericon.png](https://drive.google.com/file/d/1seRxlYeLIKYqSRfFI_XtBZwy-9E5OiQh/view?usp=sharing)"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 ### Then click Generate and open report
 
