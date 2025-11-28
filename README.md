@@ -1,6 +1,6 @@
 # Kaggle EDA Automation
 
-### This is simple example of integrating kaggle api with streamlit and ydata_ydata_profiling
+### This is simple example of integrating kaggle api with streamlit and ydata_profiling
 
 This python script fetches the data from kaggle dataset, downloads it to local directory, reads it using pandas and generates a profile report for the data. The generated profile report can be viewed in the Streamlit app and is also saved as an html file.
 

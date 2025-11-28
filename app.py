@@ -57,7 +57,7 @@ if "latest_report" in st.session_state:
     report_name = os.path.basename(st.session_state["latest_report"])
     st.page_link(
         "pages/report.py",
-        label="📁 Open EDA Report (Full Page)",
+        label="Open EDA Report",
 
     )
 # Hide sidebar and navigation entirely
